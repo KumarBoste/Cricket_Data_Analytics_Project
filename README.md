@@ -1,2 +1,2 @@
-# Cricket_Data_Analytics_Project
+# Cricket Data Analytics Project
 Web Scraping | Python | Pandas | Power Bi
