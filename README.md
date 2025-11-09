@@ -67,3 +67,33 @@ This project successfully demonstrates the power of data analytics in sports. By
 - Advanced Metrics: Integrate more sophisticated metrics like "Player Impact Score," "Pressure Handling Index," or predictive analytics for player performance.
 - Opposition Analysis: Add a feature to analyze player performance against specific opposing teams or in certain conditions (home vs. away).
 - Dashboard Enhancement: Include more interactive filters, such as filtering by tournament, date range, or specific opponent.
+
+##  Project Structure
+```text
+cricket-data-analytics/
+│
+├── scripts/
+│   ├── data_scraper.py          # Web scraping scripts
+│   ├── data_processor.py        # Data cleaning & processing
+│   ├── role_analyzer.py         # Player role classification
+│   └── utils.py                 # Utility functions
+│
+├── data/
+│   ├── raw/                     # Raw scraped data
+│   ├── processed/               # Cleaned data files
+│   └── final/                   # Analysis-ready datasets
+│
+├── dashboards/
+│   ├── cricket_team_builder.pbix    # Main Power BI dashboard
+│   ├── power_hitters_analysis.pbix  # Power hitters dashboard
+│   ├── specialist_bowlers.pbix      # Bowlers analysis dashboard
+│   └── assets/                 # Dashboard images & resources
+│
+├── docs/
+│   ├── project_report.pdf       # Detailed project documentation
+│   └── dashboard_guide.md       # Dashboard usage guide
+│
+├── requirements.txt
+├── main.py                      # Main execution script
+└── README.md
+```
