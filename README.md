@@ -45,6 +45,10 @@ The cleaned and transformed data was loaded into Power BI to create an interacti
   - Search and filter players.
   - Assign a custom batting order.
   - View the aggregate team performance metrics (like overall Team Batting Avg., Team Economy, etc.) that update in real-time as players are selected.
+
+ ## DASHBOARD 
+ ![dashboard](https://github.com/KumarBoste/Cricket_Data_Analytics_Project/blob/main/Dashboard/Final%2011.png)
+
  
   ## 4. Key Findings & Insights
 (This section will be greatly enhanced once you share the dashboard image. For now, here are hypothetical insights based on the data files.)
